@@ -3,7 +3,7 @@
 </br>
 
 ## Paper List (2024)
-|                                                   Title                                                  	| Journal / Coference  	| Year 	|                                                                                                                                                                   About                                                                                                                                                                  	|             Labels/Tag             	| Read / Review<br>Done 	|
+|                                                   Title                                                  	| Journal / Coference  	| Year 	|                                                                                                                                                                   About                                                                                                                                                                  	|             Labels/Tag             	| Read / Review 	|
 |:--------------------------------------------------------------------------------	|:--------	|:----	|:---------------------------------	|:----	|:----	|
 | [SegGPT] SegGPT: Segmenting Everything In Context | CVPR  | 2023 	|<sup> - 여러 Segmantation Task들의 output을 동일한 format으로 맞춰서  ‘In-contenxt learning framework’로<br>- Painter 구조 기반으로 이미지에 Semantic 정보를 학습, Segmantation 모델<br>- GPT랑 관련 X </sup> |    |   |
 | [Painter] Images Speak in Images: A Generalist Painter for In-Context Visual Learning | CVPR  | 2023  |<sup> - In-Context learning 모델<br>- output을 Image로 재정의하여 general purpose task 정의 </sup>	|   |   |
